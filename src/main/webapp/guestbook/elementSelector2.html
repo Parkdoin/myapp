@@ -1,0 +1,33 @@
+<!-- elementSelector2.html -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<input class="test1 test2"><br>
+<input class="test2 test3"><br>
+<input class="test2 test4"><br>
+<textarea></textarea><br>
+<textarea></textarea><br>
+<textarea></textarea><br>
+<script type="text/javascript">
+	//배열 리턴
+	var v = document.getElementsByClassName("test2");
+	for(i=0;i<v.length;i++){
+		v[i].value = i;
+	}
+	var v1 = document.getElementsByTagName("textarea");
+	for(i=0;i<v1.length;i++){
+		v1[i].value = i;
+	}
+</script>
+</body>
+</html>
+
+
+
+
+
+

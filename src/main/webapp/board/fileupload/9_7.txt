@@ -1,0 +1,40 @@
+9/7
+정동진 강사
+010-3570-6996
+9/7~11/8 : JSP + 프로젝트
+----------------------------------
+nate-on 설치 : simba222@naver.com(뮤즈몰)
+
+자바
+Database - 오라클
+HTML - CSS -JavaScript
+----------------------------
+JSP - Mysql
+임베디드 (파이썬)
+Android
+Spring
+----------------------------
+1.서비스 - 오라클 관련된 프로세스 중지 및 수동
+2.JSP -> Hello World 
+ - JDK 설치(Ver.11)
+ - 이클립스 (JEE) -> JME, JSE, JEE
+ -> C:\Jsp
+ - Tomcat(WAS Ver.10) 0> Web Server
+ - 동적 웹 프로젝트 (Dynamic Web Project 생성)
+ - 프로젝트 생성전에 반드시 Tomcat은 stop
+   -> 이클립스에서 Tomcat를 관리
+ - 이클립스 Tomcat 연결
+ => 크롬 
+
+
+
+
+
+
+
+
+
+
+
+
+

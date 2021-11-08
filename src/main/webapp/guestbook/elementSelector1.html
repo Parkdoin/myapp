@@ -1,0 +1,26 @@
+<!-- elementSelector1.html -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+test1 : <input id="test1"><br>
+test2 : <input class="test2"><br>
+<textarea></textarea><br>
+test3 : <input name="test3">
+<script type="text/javascript">
+	document.getElementById("test1").value = "테스트1";
+	document.getElementsByClassName("test2")[0].value = "테스트2";
+	document.getElementsByTagName("textarea")[0].value= "텍스트 에어리어";
+	document.getElementsByName("test3")[0].value = "텍스트3";
+</script>
+</body>
+</html>
+
+
+
+
+
+

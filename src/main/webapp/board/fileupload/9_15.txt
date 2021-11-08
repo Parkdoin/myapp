@@ -1,0 +1,18 @@
+9/15
+1.SQL(Query)문 -> Database랑 대화문
+ - CRUD (create, select, update, insert)
+ - DML 
+   - select  -> 스키마를 포함한 data
+   - update, insert, delete -> 적용된 레코드 개수
+2.자바주석 : 3가지
+ - //한줄주석
+ - /**/ 여러줄 주석 or 부분주석
+ - /** 
+   */ api 주석
+3.flag: 깃발 -> 컴퓨터 -> 제어권
+4.response.sendRedirect & location.href 차이점
+- response.sendRedirect -> 
+  teamInsert.html -> teamInsertProc.jsp -> 실제 응답 : teamList.jsp
+- location.href ->teamUpdate.jsp -> teamUpdateProc.jsp -> teamRead.jsp
+  
+                              
